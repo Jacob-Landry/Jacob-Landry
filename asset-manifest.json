@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Jacob-Landry/Jacob-Landry.git/static/css/main.073c9b0a.css",
+    "main.js": "/Jacob-Landry/Jacob-Landry.git/static/js/main.6ce46663.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Jacob-Landry/Jacob-Landry.git/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/Jacob-Landry/Jacob-Landry.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Jacob-Landry/Jacob-Landry.git/index.html",
+    "main.073c9b0a.css.map": "/Jacob-Landry/Jacob-Landry.git/static/css/main.073c9b0a.css.map",
+    "main.6ce46663.js.map": "/Jacob-Landry/Jacob-Landry.git/static/js/main.6ce46663.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Jacob-Landry/Jacob-Landry.git/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.6ce46663.js"
+  ]
+}
