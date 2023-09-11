@@ -36,4 +36,4 @@ function App() {
 
 export default App;
 
-//https://jacob-landry.github.io/Jacob-Landry/
+//https://jacob-landry.github.io/
